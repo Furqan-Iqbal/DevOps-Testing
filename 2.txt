@@ -1,2 +1,1 @@
-hello from file2
-i added something new
+file 2 updated
